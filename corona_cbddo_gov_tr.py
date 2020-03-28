@@ -19,3 +19,13 @@ if __name__ == '__main__':
 
     main_folder_path = os.path.join(os.getcwd(), "datas", "corona_cbddo_gov_tr", date)
     create_folder(main_folder_path)
+
+    url = 'https://corona.cbddo.gov.tr/'
+    page = requests.get(url)
+
+    soup = BeautifulSoup(page.content, 'html.parser')
+    results = soup.find(id='example')
+
+    job_elems = results.find_all('tr')
+    for je in job_elems:
+        print(je.text)
