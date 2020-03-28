@@ -13,13 +13,12 @@ import os
 from tools import create_folder, download_image_shutil, download_image_tqdm, download_image_wget
 
 
-
 if __name__ == '__main__':
 
     created_time = datetime.now()
     date = str(created_time).split(" ")[0]
 
-    main_folder_path = os.path.join(os.getcwd(), "images", "covid19_saglik_gov_tr", date)
+    main_folder_path = os.path.join(os.getcwd(), "datas", "covid19_saglik_gov_tr", date)
     create_folder(main_folder_path)
 
     url = 'https://covid19.saglik.gov.tr/'
