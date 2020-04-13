@@ -27,12 +27,13 @@ if __name__ == '__main__':
     elems_list = []
 
     json_file_path = os.path.join(os.getcwd(), 'datas', 'data.json')
-    datas = []
+    datas = {}
     try:
         with open(json_file_path, 'r') as json_file:
             datas = json.load(json_file)
     except Exception as e:
         print("Error: {}".format(e))
+    # print(datas)
 
     rs = results[0]
     tarih = rs.find("p", class_="p1").text + "-" + rs.find("p", class_="p2").text + "-" + rs.find("p", class_="p3").text
@@ -44,15 +45,11 @@ if __name__ == '__main__':
     li_elems = li_elems_toplam + li_elems_acik + li_elems_koyu
     for li_elem in li_elems:
         li_span_elems = li_elem.find_all("span")
-        elems_list.append((li_span_elems[0].text.replace("\r\n", " ").replace("  ", ""),
-                           li_span_elems[1].text.replace("\r\n", " ").replace("  ", "")))
+        elems_list.append((li_span_elems[0].text.replace("\r\n", "").replace("  ", ""),
+                           li_span_elems[1].text.replace("\r\n", "").replace("  ", "")))
 
     # elems_list.append(("tarih", tarih))
     elems_list.append(("title", rs.find("div", class_='baslik-tablo').text.replace("\n", "")))
-    elems_dict = {tarih: tuple2dict(elems_list)}
-    print()
+    datas[tarih] = tuple2dict(elems_list)
     with open(json_file_path, 'w') as outfile:
-        outfile.write(json.dumps(elems_dict, sort_keys=True,
-                                 ensure_ascii=True, indent=4))
-
-    # canvas = results[1].find(id="canvas")
+        outfile.write(json.dumps(datas, sort_keys=True, ensure_ascii=True, indent=4))
