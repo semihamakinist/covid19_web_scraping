@@ -36,7 +36,7 @@ if __name__ == '__main__':
     # print(datas)
 
     rs = results[0]
-    tarih = rs.find("p", class_="p1").text + "-" + rs.find("p", class_="p2").text + "-" + rs.find("p", class_="p3").text
+    tarih = rs.find("p", class_="p3").text + "_" + rs.find("p", class_="p2").text + "_" + rs.find("p", class_="p1").text
 
     li_elems_toplam = rs.find_all("li", attrs={"class": "d-flex justify-content-between baslik-k"})
     li_elems_acik = rs.find_all("li", attrs={"class": "d-flex justify-content-between baslik-k-2 bg-acik"})

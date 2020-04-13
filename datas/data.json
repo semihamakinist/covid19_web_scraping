@@ -1,5 +1,18 @@
 {
-    "10-N\u0130SAN-2020": {
+    "2020_N\u0130SAN_1": {
+        " BUG\u00dcNK\u00dc TEST SAYISI ": "14.396",
+        " BUG\u00dcNK\u00dc VAKA SAYISI ": "2.148",
+        " BUG\u00dcNK\u00dc VEFAT SAYISI ": "63",
+        " BUG\u00dcNK\u00dc \u0130Y\u0130LE\u015eEN SAYISI ": "90",
+        " TOPLAM ENTUBE HASTA SAYISI ": "692",
+        " TOPLAM TEST SAYISI ": "106.799",
+        " TOPLAM VAKA SAYISI ": "15.679",
+        " TOPLAM VEFAT SAYISI ": "277",
+        " TOPLAM YO\u011eUN BAKIM HASTA SAYISI ": "979",
+        " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "333",
+        "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
+    },
+    "2020_N\u0130SAN_10": {
         " BUG\u00dcNK\u00dc TEST SAYISI ": "30.864",
         " BUG\u00dcNK\u00dc VAKA SAYISI ": "4.747",
         " BUG\u00dcNK\u00dc VEFAT SAYISI ": "98",
@@ -12,7 +25,7 @@
         " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "2.423",
         "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
     },
-    "11-N\u0130SAN-2020": {
+    "2020_N\u0130SAN_11": {
         " BUG\u00dcNK\u00dc TEST SAYISI ": "33.170",
         " BUG\u00dcNK\u00dc VAKA SAYISI ": "5.138",
         " BUG\u00dcNK\u00dc VEFAT SAYISI ": "95",
@@ -25,7 +38,7 @@
         " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "2.965",
         "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
     },
-    "12-N\u0130SAN-2020": {
+    "2020_N\u0130SAN_12": {
         "BUG\u00dcNK\u00dcTESTSAYISI": "35.720",
         "BUG\u00dcNK\u00dcVAKASAYISI": "4.789",
         "BUG\u00dcNK\u00dcVEFATSAYISI": "97",
@@ -38,7 +51,46 @@
         "TOPLAM\u0130Y\u0130LE\u015eENHASTA SAYISI": "3.446",
         "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
     },
-    "5-N\u0130SAN-2020": {
+    "2020_N\u0130SAN_2": {
+        " BUG\u00dcNK\u00dc TEST SAYISI ": "18.757",
+        " BUG\u00dcNK\u00dc VAKA SAYISI ": "2.456",
+        " BUG\u00dcNK\u00dc VEFAT SAYISI ": "79",
+        " BUG\u00dcNK\u00dc \u0130Y\u0130LE\u015eEN SAYISI ": "82",
+        " TOPLAM ENTUBE HASTA SAYISI ": "783",
+        " TOPLAM TEST SAYISI ": "125.556",
+        " TOPLAM VAKA SAYISI ": "18.135",
+        " TOPLAM VEFAT SAYISI ": "356",
+        " TOPLAM YO\u011eUN BAKIM HASTA SAYISI ": "1.101",
+        " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "415",
+        "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
+    },
+    "2020_N\u0130SAN_3": {
+        " BUG\u00dcNK\u00dc TEST SAYISI ": "16.160",
+        " BUG\u00dcNK\u00dc VAKA SAYISI ": "2.786",
+        " BUG\u00dcNK\u00dc VEFAT SAYISI ": "69",
+        " BUG\u00dcNK\u00dc \u0130Y\u0130LE\u015eEN SAYISI ": "69",
+        " TOPLAM ENTUBE HASTA SAYISI ": "867",
+        " TOPLAM TEST SAYISI ": "141.716",
+        " TOPLAM VAKA SAYISI ": "20.921",
+        " TOPLAM VEFAT SAYISI ": "425",
+        " TOPLAM YO\u011eUN BAKIM HASTA SAYISI ": "1.251",
+        " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "484",
+        "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
+    },
+    "2020_N\u0130SAN_4": {
+        " BUG\u00dcNK\u00dc TEST SAYISI ": "19.664",
+        " BUG\u00dcNK\u00dc VAKA SAYISI ": "3.013",
+        " BUG\u00dcNK\u00dc VEFAT SAYISI ": "76",
+        " BUG\u00dcNK\u00dc \u0130Y\u0130LE\u015eEN SAYISI ": "302",
+        " TOPLAM ENTUBE HASTA SAYISI ": "909",
+        " TOPLAM TEST SAYISI ": "161.380",
+        " TOPLAM VAKA SAYISI ": "23.934",
+        " TOPLAM VEFAT SAYISI ": "501",
+        " TOPLAM YO\u011eUN BAKIM HASTA SAYISI ": "1.311",
+        " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "786",
+        "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
+    },
+    "2020_N\u0130SAN_5": {
         " BUG\u00dcNK\u00dc TEST SAYISI ": "20.065",
         " BUG\u00dcNK\u00dc VAKA SAYISI ": "3.135",
         " BUG\u00dcNK\u00dc VEFAT SAYISI ": "73",
@@ -51,7 +103,7 @@
         " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "1.042",
         "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
     },
-    "6-N\u0130SAN-2020": {
+    "2020_N\u0130SAN_6": {
         " BUG\u00dcNK\u00dc TEST SAYISI ": "21.400",
         " BUG\u00dcNK\u00dc VAKA SAYISI ": "3.148",
         " BUG\u00dcNK\u00dc VEFAT SAYISI ": "75",
@@ -64,7 +116,7 @@
         " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "1.326",
         "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
     },
-    "7-N\u0130SAN-2020": {
+    "2020_N\u0130SAN_7": {
         " BUG\u00dcNK\u00dc TEST SAYISI ": "20.023",
         " BUG\u00dcNK\u00dc VAKA SAYISI ": "3.892",
         " BUG\u00dcNK\u00dc VEFAT SAYISI ": "76",
@@ -77,7 +129,7 @@
         " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "1.582",
         "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
     },
-    "8-N\u0130SAN-2020": {
+    "2020_N\u0130SAN_8": {
         " BUG\u00dcNK\u00dc TEST SAYISI ": "24.900",
         " BUG\u00dcNK\u00dc VAKA SAYISI ": "4.117",
         " BUG\u00dcNK\u00dc VEFAT SAYISI ": "87",
@@ -90,7 +142,7 @@
         " TOPLAM \u0130Y\u0130LE\u015eEN HASTA SAYISI ": "1.846",
         "title": "T\u00dcRK\u0130YE G\u00dcNL\u00dcK KORONAV\u0130R\u00dcS TABLOSU"
     },
-    "9-N\u0130SAN-2020": {
+    "2020_N\u0130SAN_9": {
         " BUG\u00dcNK\u00dc TEST SAYISI ": "28.578",
         " BUG\u00dcNK\u00dc VAKA SAYISI ": "4.056",
         " BUG\u00dcNK\u00dc VEFAT SAYISI ": "96",
